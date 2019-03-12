@@ -1,10 +1,15 @@
 
 **Steps to run the code**:
-* Download or clone the code. <br>
 
-```cd gs-rest-service/initial```
+* Download or clone the code.
 
-```./gradlew bootRun``` <br>
+  cd gs-rest-service/initial
 
-Load the url (http://localhost:8080/) into a web browser. <br>
+* Run
+
+  ./gradlew bootRun
+
+Load the url (http://localhost:8080/) into a web browser.
 Click any two grids to detemine the path between them.
+
+
